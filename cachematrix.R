@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Wrapper for a matrix and it's inverse
 ## set(y), set the wrapped matrix to y
 ## get(), returns the wrapped matrix
