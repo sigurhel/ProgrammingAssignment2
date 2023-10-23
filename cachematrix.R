@@ -7,7 +7,7 @@
 ## getinv(), returns the cached inverse of wrapped matrix
 ## setinv(matrixInverse), set the cached matrix inverse
 
-makeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- function(xMatrix = matrix()) {
     mInv <- NULL
     set <- function(y) {
         xMatrix <<- y
