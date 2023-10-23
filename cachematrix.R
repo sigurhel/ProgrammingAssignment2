@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Wrapper for a matrix
+## Wrapper for a matrix and it's inverse
 ## set(y), set the wrapped matrix to y
 ## get(), returns the wrapped matrix
 ## getinv(), returns the cached inverse of wrapped matrix
